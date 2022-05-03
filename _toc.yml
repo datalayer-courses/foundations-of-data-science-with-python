@@ -70,6 +70,7 @@ sections:
   - file: 08-random-variables/important-discrete-rvs
   - file: 08-random-variables/continuous-rvs
   - file: 08-random-variables/important-continuous-rvs
+  - file: 08-random-variables/kernel-density-estimation
   - file: 08-random-variables/outline
 - file: 09-moments/outline
 - file: 10-conditional-stats/outline
