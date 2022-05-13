@@ -421,7 +421,7 @@ axes.spines.right:  False
 # --rich-black-fogra-39: #090c08ff;
 # Background color 
 # --snow: #fffafbff;
-axes.prop_cycle: cycler('color', [ 'e26d5a', '666a86', '87a878', '5bc0eb', '090c08'])
+axes.prop_cycle: cycler('color', [ '666a86', 'e26d5a', '87a878', '5bc0eb', '090c08'])
 #axes.xmargin:   .05  # x margin.  See `axes.Axes.margins`
 #axes.ymargin:   .05  # y margin.  See `axes.Axes.margins`
 #axes.zmargin:   .05  # z margin.  See `axes.Axes.margins`
