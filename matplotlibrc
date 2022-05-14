@@ -414,14 +414,22 @@ axes.spines.right:  False
                   # for more details on prop_cycle usage.
 
 ## Color palette for FDSP 
-# --dark-blue-gray: #666a86ff;
-# --terra-cotta: #e26d5aff;
-# --asparagus: #87a878ff;
-# --cyan-process: #5bc0ebff;
-# --rich-black-fogra-39: #090c08ff;
-# Background color 
+# --bdazzled-blue: #345995
+# --terra-cotta: #e26d5a;
+# --asparagus: #87a878;
+# --cyan-process: #5bc0eb;
+#
+# Last color:
+# --pansy-purple: #861657
+# OR
+# --russian-violet: #4c1a57
+# OR 
+# --space-cadet: #22223b
+#
+# NO LONGER USED
 # --snow: #fffafbff;
-axes.prop_cycle: cycler('color', [ '666a86', 'e26d5a', '87a878', '5bc0eb', '090c08'])
+# --rich-black-fogra-39: #090c08;
+axes.prop_cycle: cycler('color', [ '345995', 'e26d5a', '87a878', '5bc0eb', '861657'])
 #axes.xmargin:   .05  # x margin.  See `axes.Axes.margins`
 #axes.ymargin:   .05  # y margin.  See `axes.Axes.margins`
 #axes.zmargin:   .05  # z margin.  See `axes.Axes.margins`
