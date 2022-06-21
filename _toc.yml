@@ -40,7 +40,13 @@ sections:
   - file: 04-probability1/combinatorics
   - file: 04-probability1/review
   - file: 04-probability1/summary
-- file: 05-binary-hypothesis-testing/outline
+- file: 05-binary-hypothesis-testing/intro
+  sections:
+  - file: 05-binary-hypothesis-testing/statistical-studies
+  - file: 05-binary-hypothesis-testing/nhst
+  - file: 05-binary-hypothesis-testing/calculating-p-values
+  - file: 05-binary-hypothesis-testing/how-to-sample
+  - file: 05-binary-hypothesis-testing/outline
 - file: 06-conditional-prob/intro
   sections:
   - file: 06-conditional-prob/simulating-cond-probs
