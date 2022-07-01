@@ -13,7 +13,7 @@
     },
     {
         "front": "randomized control trial (RCT)",
-        "back": "An experiment involving participants that are **randomly assigned** to either a *control group* or one or more *treatment groups*. The control group receives no treatment or the standard treatment. The treatment group receives the novel treatment that is to be evaluated."
+        "back": "An experiment involving participants that are <b>randomly assigned</b> to either a <i>control group</i> or one or more <i>treatment groups</i>. The control group receives no treatment or the standard treatment. The treatment group receives the novel treatment that is to be evaluated."
     },
     {
         "front": "natural experiment",
@@ -21,31 +21,31 @@
     },
     {
         "front": "population",
-        "back": "*All members* of a group that share some common characteristic."
+        "back": "<i>All members</i> of a group that share some common characteristic."
     },
     {
         "front": "population study",
-        "back": "In a *population study*, data are gathered about a group (often people) whose members share some common characteristic(s)."
+        "back": "In a <i>population study</i>, data are gathered about a group (often people) whose members share some common characteristic(s)."
     },
     {
         "front": "sample",
-        "back": "In a *population study*, a *sample* is a subset of the population for which data is collected. Ideally, the sample is large enough to provide statistical significance for issues being studied."
+        "back": "In a <i>population study</i>, a <i>sample</i> is a subset of the population for which data is collected. Ideally, the sample is large enough to provide statistical significance for issues being studied."
     },
     {
         "front": "cross-sectional study",
-        "back": "A *cross-sectional study* is an observational study that collects data about some population at a single instance in time. "
+        "back": "A <i>cross-sectional study</i> is an observational study that collects data about some population at a single instance in time. "
     },
     {
         "front": "longitudinal study",
-        "back": "A *longitudinal study*, involves collecting repeated observations over time for a population."
+        "back": "A <i>longitudinal study</i>, involves collecting repeated observations over time for a population."
     },
     {
         "front": "longitudinal cohort study",
-        "back": "A *longitudinal study*, involves collecting repeated observations over time for a particular set of members (called a cohort) of a population."
+        "back": "A <i>longitudinal study</i>, involves collecting repeated observations over time for a particular set of members (called a cohort) of a population."
     },
     {
         "front": "prospective study",
-        "back": "A study in which the research question is formulated *first* and used to formulate the design of the data collection (including not only what data is to be collected, but from what subjects, and how the data is to be collected). "
+        "back": "A study in which the research question is formulated <i>first</i> and used to formulate the design of the data collection (including not only what data is to be collected, but from what subjects, and how the data is to be collected). "
     },
     {
         "front": "retrospective study",
