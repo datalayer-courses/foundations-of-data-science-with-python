@@ -13,14 +13,14 @@
     },
     {
         "front": "right, or upper, tail",
-        "back": "For a random value $\\\\Delta$ that has a distribution with mode $M_\\\\Delta$, the <i>right tail</i> or <i>upper tail</i> is of the form $P(\\\\Delta > M_\\\\Delta +d)$  for some value $d>0$.."
+        "back": "For a random value $\\Delta$ that has a distribution with mode $M_\\Delta$, the <i>right tail</i> or <i>upper tail</i> is of the form $P(\\Delta > M_\\Delta +d)$  for some value $d>0$.."
     },
     {
         "front": "left, or lower, tail",
-        "back": "For a random value $\\\\Delta$ that has a distribution with mode $M_\\\\Delta$, the <i>left tail</i> or <i>lower tail</i> is of the form $P(\\\\Delta < M_\\\\Delta -d)$ for some value $d>0$."
+        "back": "For a random value $\\Delta$ that has a distribution with mode $M_\\Delta$, the <i>left tail</i> or <i>lower tail</i> is of the form $P(\\Delta < M_\\Delta -d)$ for some value $d>0$."
     },
     {
         "front": "two-sided tail",
-        "back": "For a random value $\\\\Delta$ that has a distribution with mode $M_\\\\Delta$, a <i>two-sided tail</i> is of the form $P(|\\\\Delta - M_\\\\Delta| > d)$ for some value $d>0$."
+        "back": "For a random value $\\Delta$ that has a distribution with mode $M_\\Delta$, a <i>two-sided tail</i> is of the form $P(|\\Delta - M_\\Delta| > d)$ for some value $d>0$."
     }
 ]
