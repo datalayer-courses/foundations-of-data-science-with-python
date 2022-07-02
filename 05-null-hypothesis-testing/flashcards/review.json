@@ -5,7 +5,7 @@
     },
     {
         "front": "Type-II Error",
-        "back": "A *Type-II Error* is a <b>false negative</b> and is sometimes denoted by the Greek letter \\(\\beta\\) (\"beta\").  For NHST, a Type II error occurs if the alternative hypothesis is actually true, but the null hypothesis is not rejected."
+        "back": "A <i>Type-II Error</i> is a <b>false negative</b> and is sometimes denoted by the Greek letter \\(\\beta\\) (\"beta\").  For NHST, a Type II error occurs if the alternative hypothesis is actually true, but the null hypothesis is not rejected."
     },
     {
         "front": "Power",
@@ -17,7 +17,7 @@
     },
     {
         "front": "bootstrap distribution",
-        "back": "For some statistic of sample data, the *bootstrap distribution* is a characterization of the possible values of that statistic and the mapping of probability to those values that arises from creating values of that statistic via bootstrap sampling. Whereas the sampling distribution is based on samples from the original random distribution, the bootstrap distribution is based on resampling from a fixed set of data."
+        "back": "For some statistic of sample data, the <i>bootstrap distribution</i> is a characterization of the possible values of that statistic and the mapping of probability to those values that arises from creating values of that statistic via bootstrap sampling. Whereas the sampling distribution is based on samples from the original random distribution, the bootstrap distribution is based on resampling from a fixed set of data."
     },
     {
         "front": "confidence interval (CI)",

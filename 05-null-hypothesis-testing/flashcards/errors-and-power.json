@@ -5,7 +5,7 @@
     },
     {
         "front": "Type-II Error",
-        "back": "A *Type-II Error* is a <b>false negative</b> and is sometimes denoted by the Greek letter \\(\\beta\\) (\"beta\").  For NHST, a Type II error occurs if the alternative hypothesis is actually true, but the null hypothesis is not rejected."
+        "back": "A <i>Type-II Error</i> is a <b>false negative</b> and is sometimes denoted by the Greek letter \\(\\beta\\) (\"beta\").  For NHST, a Type II error occurs if the alternative hypothesis is actually true, but the null hypothesis is not rejected."
     },
     {
         "front": "Power",
