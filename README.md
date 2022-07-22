@@ -1,5 +1,9 @@
 # Foundations of Data Science with Python (FDSP)
 
+
+ <a href="https://jmshea.github.io/Foundations-of-Data-Science-with-Python/" > <img src="assets/book-icon.png" width="200" ></a>
+
+
 This book covers practical and mathematical foundations of data science, including:
 * data visualization
 * probability
