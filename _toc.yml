@@ -28,7 +28,7 @@ sections:
   - file: 03-first-data/summary-stats
   - file: 03-first-data/histogram
   - file: 03-first-data/hypothesis-testing
-  - file: 03-first-data/2d-scatter
+  - file: 03-first-data/2d-statistics-preview.ipynb
   - file: 03-first-data/review
 - file: 04-probability1/intro
   sections:
